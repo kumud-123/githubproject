@@ -6,3 +6,11 @@ nav{
 	background-color: gray;
 	height: 70px;
 }
+footer{
+	height: 100px;
+	background-color: black;
+}
+h3{
+	text-align: center;
+	color: red;
+}
